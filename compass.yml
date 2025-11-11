@@ -1,0 +1,13 @@
+name: db_schemas_lab
+id: ari:cloud:compass:46859b51-faba-47fd-bfe0-6b6cf5033e82:component/283da2dc-2f14-4c31-ac4b-bc29195f1e5c/51f80551-42a8-47ef-9094-dc554011e01c
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
